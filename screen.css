@@ -1,0 +1,27 @@
+.table{
+    border: 2px solid black;
+    width: 100%;
+    height: 100%;
+}
+.firstrow td{
+    border: 2px solid black;
+    height: 10%;
+    width: 50%;
+}
+img{
+    height: 150px;
+    width: 50%;
+}
+.title{
+    text-align: center;
+}
+.secondrow td{
+    border: 2px solid black;
+    height: 615px;  
+}
+td{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
